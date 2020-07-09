@@ -1,0 +1,14 @@
+---
+title: "gapminder-wrangle"
+author: "Xu hengxi"
+date: "2020/7/9"
+output: pdf_document
+---
+
+```{r setup, message=F, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+```
+
+## Learn `dplyr` using gapminder dataset
+
